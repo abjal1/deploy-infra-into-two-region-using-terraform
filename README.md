@@ -1,5 +1,11 @@
 # deploy-infra-into-two-region-using-terraform
 
+#terraform installation:
+
+sudo wget https://releases.hashicorp.com/terraform/0.12.2/terraform_0.12.2_linux_amd64.zip <br />
+sudo unzip ./terraform_0.12.2_linux_amd64.zip -d /usr/local/bin <br />
+terraform -v <br />
+
 extra notes:
  
 #element(list, index), count usage <br />
